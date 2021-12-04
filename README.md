@@ -22,3 +22,9 @@ This repository is a list of cheatsheets, configs, and scripts I compiled to cut
 - `/sed`
     - sed cheatsheet
 <!-- - `/cut` -->
+
+### TODO
+- [ ] create vim.rc
+- [ ] create dig.rc
+- [ ] create .bashrc
+- [ ] create .zshrc <!-- or whatever it is called for zsh -->
